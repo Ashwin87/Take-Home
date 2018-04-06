@@ -20,6 +20,6 @@ URL to Search for a particular song:
 https://3zbhx480k2.execute-api.us-west-2.amazonaws.com/dev/spotify/{songname}
 
 Method to add song in the playlist:
-curl -X POST https://3zbhx480k2.execute-api.us-west-2.amazonaws.com/dev/spotify --data '{ "songname": "song.txt","playlist": "myfirst" }'
+curl -X POST https://3zbhx480k2.execute-api.us-west-2.amazonaws.com/dev/spotify --data '{ "songname": "file.txt","playlist": "myfirst" }'
 
 
