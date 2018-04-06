@@ -1,0 +1,6 @@
+{
+	"name": "serverless-spotify",
+	"dependencies": {
+		"aws-sdk": "^2.221.1"
+	}
+}
